@@ -1,4 +1,4 @@
-# Hogwarts Legacy on macOS — Complete Guide (Heroic + Wine)
+# Hogwarts Legacy on macOS - Complete Guide (Heroic + Wine)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hogwarts%20Legacy-macOS%20Guide-6A5ACD?style=for-the-badge&logo=apple&logoColor=white" />
@@ -31,7 +31,7 @@
 
 # Overview
 
-Hogwarts Legacy does not officially support macOS, but with **Heroic Games Launcher**, **Wine**, and a few configuration tweaks, the game runs smoothly—even at **60 FPS on Ultra settings** on powerful Apple Silicon machines.
+Hogwarts Legacy does not officially support macOS, but with **Heroic Games Launcher**, **Wine**, and a few configuration tweaks, the game runs smoothly-even at **60 FPS on Ultra settings** on powerful Apple Silicon machines.
 
 ---
 
@@ -133,7 +133,7 @@ If shaders fail to build the first time, close and relaunch.
 ### **AMD Driver Outdated popup**
 
 * Wine may show a warning claiming the "AMD GPU driver is outdated".
-* Safe to ignore — macOS GPU drivers aren’t user‑managed.
+* Safe to ignore - macOS GPU drivers aren’t user‑managed.
 
 ---
 
