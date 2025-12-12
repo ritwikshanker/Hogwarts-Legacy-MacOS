@@ -86,7 +86,7 @@ This will allow you to install required Windows components.
 
 ### **7. Fix missing dependencies**
 
-Any missing DLLs or components shown in logs must be installed.
+Any missing DLLs or components shown in logs must be installed using Mac Terminal and `brew` (Google the name of the missing packages to find command to install them).
 
 ### **8. Install `vcrun2022`**
 
